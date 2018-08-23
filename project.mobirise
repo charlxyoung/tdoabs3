@@ -1,0 +1,822 @@
+{
+  "settings": {
+    "name": "Alexander Emmanuel",
+    "currentPage": "page3.html",
+    "theme": {
+      "name": "colorm",
+      "title": "ColorM",
+      "styling": {
+        "primaryColor": "#342b25",
+        "buttonsColor": "#cfb872",
+        "secondaryColor": "#95a5a6",
+        "successColor": "#916d3a",
+        "infoColor": "#333333",
+        "warningColor": "#cfb872",
+        "dangerColor": "#ecf0f1",
+        "titleFont": "Arvo",
+        "subtitleFont": "Montserrat",
+        "textFont": "Open Sans",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true
+      },
+      "additionalSetColors": [
+        "#f9f9f9",
+        "#f3f3f3",
+        "#222222",
+        "#212121",
+        "#cab164",
+        "#cfb872",
+        "#434350"
+      ]
+    },
+    "versionFirst": "4.7.1",
+    "uniqCompNum": 158,
+    "versionPublish": "4.8.1",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png",
+    "siteUrl": "",
+    "sitemapSwitcherAuto": "on",
+    "siteFonts": []
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "A story only shared in whispers... A bond thicker than blood... Creed of Brotherhood is the totem of Boy Soldiers.",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".lead": {
+              "color": "#9fa3a7"
+            },
+            ".mbr-section-subtitle": {
+              "text-transform": "uppercase",
+              "text-align": "right",
+              "color": "#ecf0f1",
+              "font-size": "14px"
+            },
+            ".mbr-section-title B": {
+              "font-size": "72px",
+              "color": "#cab164"
+            },
+            ".mbr-section-text": {
+              "color": "#ecf0f1",
+              "text-align": "right"
+            },
+            ".mbr-section-title": {
+              "color": "#cfb872",
+              "text-align": "right",
+              "font-size": "48px"
+            },
+            ".mbr-section-title I": {
+              "font-size": "60px",
+              "color": "#cab164"
+            }
+          },
+          "_params": {
+            "showImages": true,
+            "showNumber": false,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false,
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": 2,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/top-bg-2000x1250.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#ecf0f1",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.7"
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/tdoabs-transparent-600x439.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "title1": "<font color=\"#cab164\"><span style=\"font-size: 72px;\"><b>THE</b></span></font><br><font color=\"#cab164\"><span style=\"font-size: 72px;\"><b>DIARY OF A BOY SOLDIER</b></span></font>",
+          "subtitle1": "<b><i>Creed of brotherhood</i></b>",
+          "caption1": "<i><b>\"</b>Ayorinde Olarenwaju Banks struggles to carve a niche for himself amid the flurry of misfortunes that beleagueres</i><i>&nbsp;him. His sojourn through the Nigerian Military School only exposed him to his own vulnerabilities. As things became worse for him, he leaves his diary for posterity to learn from.<b>\"</b></i>",
+          "number1": "1",
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\"><span class=\"cm-icon cm-icon-arrowright mbr-iconfont mbr-iconfont-btn\"></span></a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features8",
+          "_anchor": "features8-4c"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#eeeeee"
+          },
+          "text": "If you have read <b>THE DIARY OF A BOY SOLDIER</b>, then Creed of Brotherhood edition is something you'd lunge at. Same story of Ayorinde Olarenwaju Banks: the lad from the slums of Mushin, who found his way into the Nigerian Military School by providence, was <b>REWRITTEN</b> and <b>RETOLD</b>! The <b><i>\"Creed of Brotherhood\"</i></b> edition is offering a better reading experience, more captivating and nostalgic stories, updated Exboys list from 1954 to 2012, and relatable events that exboys across various sets and generations share in common.&nbsp;",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-3c",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "color": "#342b25"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "showText": true,
+            "showButtons": false,
+            "bgCardImage": "@PROJECT_PATH@/assets/images/aeo-2-692x865.jpg",
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/middle-bg-2000x1778.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#ecf0f1",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.6"
+          },
+          "arrowDown": "@THEME_PATH@/components/_images/header/arrowDown.png",
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/features/03.jpg",
+              "class": ""
+            }
+          },
+          "title": "<b>ALEXANDER EMMANUEL OCHOGWU</b>",
+          "subtitle": "Best Selling Author",
+          "text": "<b>I am many things.</b><br>As a Strategist, I understand that perception is key to problem solving.&nbsp;So, I would say I am a specialist at identifying, analysing, and harnessing threats and opportunities into desirable outcomes.<br><br>As a Military officer, I understand that excellence can only be achieved through discipline and character. <br>I am having the best time of my life as a writer, after bagging International Best Seller ratings for my book ÓMÓ.  <b>Diary of a Boy Soldier</b> <i>(Creed of Brotherhood Edition)</i> is something you'd love.<br><br>As a husband, father and a life coach, I love and love to nurture and see things grow from small to great.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">learn more</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials3",
+          "_anchor": "testimonials3-2v",
+          "_styles": {
+            ".mbr-section-text": {
+              "font-size": "16px",
+              "color": "#000000"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#000000"
+            },
+            ".mbr-section-title": {
+              "color": "#000000"
+            },
+            ".mbr-section-subtitle I": {
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "19px"
+            },
+            ".navbar-toggler": {
+              "color": "#ecf0f1"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ecf0f1"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ecf0f1"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "@primaryColor"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#ecf0f1"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#161210"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#2b241f!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#342b25"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ecf0f1",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#342b25!important"
+            },
+            ".btn": {
+              "font-size": "11px"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#342b25",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#ecf0f1",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials3-2v\" aria-expanded=\"false\">ABOUT AUTHOR</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page3.html\">Pre-order NOW</a></li>",
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/a6-1-219x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "child",
+              "family": "FontAwesome",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ALEXANDER EMMANUEL OCHOGWU</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-2j"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "countdown": "2018/09/22",
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/top-bg-2000x1250.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4a3128",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#333333",
+            "overlayOpacity": "0.6"
+          },
+          "title": "COUNTDOWN TO LAUNCH",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci a, rem accusantium recusandae beatae. Eos quae sint minus dolorum facere, iure illum veritatis harum minima quod voluptatibus culpa tenetur eveniet enim. Natus, id cupiditate aperiam obcaecati incidunt nam minus accusantium libero officia expedita dignissimos optio, quis, minima quibusdam esse saepe!",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "countdown2",
+          "_anchor": "countdown2-2w",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "center",
+              "color": "#ffffff",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "46px"
+            },
+            ".mbr-section-title B": {
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700"
+            }
+          }
+        },
+        {
+          "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "postToLoad": "2",
+            "facebook": "OmoTheBook",
+            "twitter": "phronesis3412",
+            "google": "",
+            "youtube": "",
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/thediaryx-1875x593.jpg",
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.5"
+          },
+          "alias": "social-feed",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "feed",
+          "_anchor": "feed-34"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "1",
+            "bgColor": "#dddddd"
+          },
+          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"https://www.facebook.com/OmoTheBook/\" data-toolbar=\"-mbrBtnMove\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\"></span>FACEBOOK</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://www.instagram.com/alexandereccentric/\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span>INSTAGRAM</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://twitter.com/phronesis3412\" data-toolbar=\"-mbrBtnMove\"><span class=\"fa fa-twitter-square mbr-iconfont mbr-iconfont-btn\"></span>TWITTER</a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"tel:+234806901 2757\" data-toolbar=\"-mbrBtnMove\"><span class=\"fa fa-phone-square mbr-iconfont mbr-iconfont-btn\"></span>MOBILE</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-3g"
+        },
+        {
+          "_styles": {
+            ".display-1": {
+              "font-weight": "700",
+              "text-transform": "uppercase",
+              "margin-top": "40px"
+            },
+            "H1": {
+              "font-size": "72px",
+              "color": "#f1c40f"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/omo-mock2-1-2000x778.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#212121",
+            "bgText": "CLICK HERE TO ORDER NOW",
+            "bgTextStyle": "Montserrat",
+            "bgTextColor": "#bbbbbb",
+            "bgTextSize": "200",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.7"
+          },
+          "title": "ÓMÓ <span style=\"font-weight: normal;\">is STILL AVAILABLE</span>",
+          "text": "While growing up in Sun City, Omo is brought face to face with the life lessons of surviving on her own. In her quest to live her dream, she gets<br>enmeshed in a downward spiral that would send her into the abysmal misery that will require her to travel six years and over six thousand miles<br>back, just to correct one mistake.<br>From the Sediments of Sun City, through the Fiery Galadima Forest - traversing the Sand Dunes and Barchans of the Sahara and the Boorish Waves of the Mediterranean to the Piedmont Region of Modern Italy, Omo is the story of courage and self-discovery, encapsulated in the intricate tapestry of a mother's undying love for her child.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://www.amazon.com/dp/9788054110/ref=cm_sw_su_dp\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">AMAZON</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"http://www.kadamall.com.ng/omo\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">KADA MALL</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "animated-bg1",
+          "_anchor": "animated-bg1-4d"
+        },
+        {
+          "_styles": {
+            ".btn-social": {
+              "color": "#fff",
+              "height": "60px",
+              "width": "60px",
+              "line-height": "60px",
+              "font-size": "2rem"
+            },
+            ".mbr-section-title": {
+              "color": "#fff",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-size": "30px"
+            },
+            ".mbr-section-title SPAN": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/image-43899470-zte-wallpapers-2000x1250.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "overlay": true,
+            "overlayColor": "#333333",
+            "overlayOpacity": "0.6",
+            "facebook": true,
+            "twitter": true,
+            "google": false,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "<span style=\"font-weight: normal;\">SHARE THE EXPERIENCE</span>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-32"
+        },
+        {
+          "_styles": {
+            ".mbr-section-subtitle": {
+              "text-transform": "uppercase"
+            },
+            ".form-control-label": {},
+            ".mbr-section-title": {
+              "text-align": "right"
+            },
+            ".mbr-section-title B": {
+              "color": "#ecf0f1",
+              "font-size": "72px"
+            }
+          },
+          "_params": {
+            "showSubtitle": false,
+            "showTitle": true,
+            "showText": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mockup7xcc-2000x527.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#ecf0f1",
+            "overlay": false,
+            "overlayColor": "#ecf0f1",
+            "overlayOpacity": 0.5
+          },
+          "iconName": "<img src=\"@PROJECT_PATH@/assets/images/icon-name.png\">",
+          "iconEmail": "<img src=\"@PROJECT_PATH@/assets/images/icon-email.png\">",
+          "iconPhone": "<img src=\"@PROJECT_PATH@/assets/images/icon-phone.png\">",
+          "title": "<b>HIT<br>ME<br>UP</b>",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem nobis, ea amet non commodi voluptate. Aspernatur libero cumque in unde et culpa corrupti asperiores praesentium voluptatum iure dolores illo nihil saepe distinctio eaque explicabo quis ipsam sed consectetur, accusantium ex qui. Voluptas nam consectetur, dolorem sed quo qui iusto dolor!",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT THE AUTHOR</a>",
+          "form": {
+            "action": "phronesis3412@gmail.com",
+            "alerts": {
+              "success": "I'm glad to hear from you!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-3l"
+        },
+        {
+          "_styles": {
+            ".mbr-section-text": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/thediaryx-1875x593.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.5"
+          },
+          "text": "Copyright (c) 2018 Crafthought Designs.",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer2",
+          "_anchor": "footer2-3m"
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {
+        "title": "Pre-Order Page",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "19px"
+            },
+            ".navbar-toggler": {
+              "color": "#ecf0f1"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ecf0f1"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ecf0f1"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "@primaryColor"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#ecf0f1"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#161210"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#2b241f!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#342b25"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ecf0f1",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#342b25!important"
+            },
+            ".btn": {
+              "font-size": "11px"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#342b25",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#ecf0f1",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials3-2v\" aria-expanded=\"false\">ABOUT AUTHOR</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page3.html\">Pre-order NOW</a></li>",
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/a6-1-219x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "child",
+              "family": "FontAwesome",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ALEXANDER EMMANUEL OCHOGWU</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-3p"
+        },
+        {
+          "_styles": {
+            ".mbr-section__container .mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section__container .mbr-section-subtitle": {
+              "color": "#cfb872"
+            },
+            ".mbr-price-value": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            "H1": {
+              "color": "#ecf0f1"
+            },
+            "UL": {
+              "color": "#916d3a"
+            },
+            ".mbr-plan-title": {
+              "color": "#916d3a"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "firstType": "hidden",
+            "secondType": "hidden",
+            "thirdType": "",
+            "fourthType": "",
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "showButtons": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/top-bg-2000x1250.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#ecf0f1",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.5"
+          },
+          "title": "<b>PRE-ORDER NOW</b>",
+          "subtitle": "<b>BE THE FIRST TO GRAB A COPY NOW</b>",
+          "title1": "BASIC PLAN",
+          "title2": "TEAM PLAN",
+          "title3": "PAPERBACK COVER",
+          "title4": "HARDBACK COVER",
+          "label1": "POPULAR",
+          "label2": "POPULAR",
+          "label3": "POPULAR",
+          "label4": "POPULAR",
+          "currency1": "$",
+          "currency2": "$",
+          "currency3": "<b>₦</b>",
+          "currency4": "<b>₦</b>",
+          "price1": "29",
+          "price2": "49",
+          "price3": "<b>5,000</b>",
+          "price4": "<b>7,000</b>",
+          "period1": "/mo",
+          "period2": "/mo",
+          "period3": ".",
+          "period4": ".",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>5</b> Projects</li><li class=\"list-group-item\"><b>20</b> Images</li><li class=\"list-group-item\"><b>9/5</b> Support</li></ul>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>10</b> Projects</li><li class=\"list-group-item\"><b>40</b> Images</li><li class=\"list-group-item\"><b>12/7</b> Support</li></ul>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b><i>Includes cost of delivery within Nigeria</i></b></li></ul>",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b><i>Includes cost of delivery within Nigeria</i></b></li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-3t"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "25px"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgColor": "#f9f9f9"
+          },
+          "title": "Payment for pre-order should go directly to:<br><i>Alexander Emmanuel&nbsp;</i><b>0005770219</b><br>Guarantee Trust Bank<b> (GTB)</b>",
+          "meta": "Please text <b>07058547018</b> upon payment for verification.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-3s"
+        },
+        {
+          "_styles": {
+            ".mbr-section-text": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/thediaryx-1875x593.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.5"
+          },
+          "text": "Copyright (c) 2018 Crafthought Designs.",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer2",
+          "_anchor": "footer2-3q"
+        }
+      ]
+    }
+  }
+}
